@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    /* background-color: grey; */
+    width: 850px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
+.head{
+    /* background-color: orange; */
+    width: 600px;
+    height: 66px;
+}
+.left{
+    /* background-color: red; */
+    width: 406px;
+    height: 600px;
+    float: left;
+}
+.first{
+    /* background-color: white; */
+    width: 192px;    
+    float: left;
+}
+.last{
+    /* background-color: white; */
+    width: 192px;  
+    float: right;
+    float: left;
+    margin-left: 20px;
+}
+.country{
+    /* background-color: green; */
+    width: 600px;
+    height: 66px;
+    margin-top: 20px;
+}
+.address{
+    /* background-color: yellow; */
+    width: 600px;
+    height: 145px;
+    margin-top: 20px;
+}
+.area{
+    /* background-color: cyan; */
+    width: 600px;
+    height: 66px;
+    margin-top: 20px;
+}
+.mail{
+    /* background-color: cyan; */
+    width: 600px;
+    height: 66px;
+    margin-top: 20px;
+}
+.agree{
+    /* background-color: red; */
+    width: 600px;
+    height: 50px;
+    margin-top: 20px;
+}
+.right{
+    /* background-color: red; */
+    width: 406px;
+    height: 600px;
+    float: right;
+}
+.amount{
+    /* background-color: orange; */
+    width: 600px;
+    height: 66px;
+}
+.checkbox{
+    /* background-color: red; */
+    width: 600px;
+    height: 13px;
+    margin-top: 20px;
+}
+.other{
+    /* background-color: blue; */
+    width: 600px;
+    height: 66px;
+    margin-top: 20px;
+}
+.credit{
+    /* background-color: blue; */
+    width: 600px;
+    height: 145px;
+    margin-top: 20px;
+}
+.image{
+    /* background-color: red; */
+    width: 600px;
+    height: 66px;
+    margin-top: 20px;
+}
+.image img{
+    width: 70px;
+    height: 40px;
+    margin-right: 5px;
+}
+.date{
+    /* background-color: red; */
+    width: 600px;
+    height: 66px;
+    margin-top: 20px;
+}
+.expire{
+    /* background-color: blue; */
+    width: 155px;
+    height: 66px;
+    float: left;
+}
+.security{
+    /* background-color: red; */
+    width: 200px;
+    height: 66px;
+    /* float: right; */
+    float: left;
+    margin-left: 6px;
+}
+.agree2{
+    /* background-color: red; */
+    width: 600px;
+    height: 35px;
+    margin-top: 20px;
+}
+button{
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border: 1px solid lightgrey;
+}
+textarea{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14.5px;
+}
